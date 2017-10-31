@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TinkoffHomeWork5</string>
+    <string name="input_x">Ввевиде Х</string>
+    <string name="input_y">Введите У</string>
+    <string name="add_point">Добавить точку</string>
+    <string name="graph">Построить график</string>
+    <string name="choose_color">Выберите цвет графика:</string>
+    <string-array name="color_list">
+        <item>Синий</item>
+        <item>Красный</item>
+        <item>Зеленый</item>
+    </string-array>
+</resources>
